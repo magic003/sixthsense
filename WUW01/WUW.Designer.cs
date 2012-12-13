@@ -1094,8 +1094,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(1024, 768);
+            /*this.BackColor = System.Drawing.Color.Black;
+            this.ClientSize = new System.Drawing.Size(1024, 768);*/
             this.Controls.Add(this.pictureBoxDisplay);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.photoDemo_TakePhoto);
@@ -1120,7 +1120,7 @@
             this.Controls.Add(this.elementHostNewsPaper);
             this.Controls.Add(this.webBrowserGallery);
             this.Controls.Add(this.webBrowserMap);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            /*this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;*/
             this.KeyPreview = true;
             this.Name = "WUW";
             this.ShowIcon = false;
