@@ -737,6 +737,7 @@
             this.elementHostDraw.TabIndex = 12;
             this.elementHostDraw.Text = "elementHostDraw";
             this.elementHostDraw.Child = null;
+            /*
             // 
             // labelM
             // 
@@ -789,6 +790,8 @@
             this.labelP.Size = new System.Drawing.Size(20, 19);
             this.labelP.TabIndex = 16;
             this.labelP.Text = "P";
+            */
+            
             // 
             // labelDemoName
             // 
