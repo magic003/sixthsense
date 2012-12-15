@@ -790,7 +790,6 @@
             this.labelP.Size = new System.Drawing.Size(20, 19);
             this.labelP.TabIndex = 16;
             this.labelP.Text = "P";
-            */
             
             // 
             // labelDemoName
@@ -804,6 +803,8 @@
             this.labelDemoName.Size = new System.Drawing.Size(44, 16);
             this.labelDemoName.TabIndex = 17;
             this.labelDemoName.Text = "WUW";
+            */
+            
             // 
             // photoDemo_TakePhoto
             // 
@@ -817,6 +818,7 @@
             this.photoDemo_TakePhoto.Text = "Take Picture";
             this.photoDemo_TakePhoto.UseVisualStyleBackColor = true;
             this.photoDemo_TakePhoto.MouseHover += new System.EventHandler(this.photoDemo_TakePhoto_Hover);
+            /*
             // 
             // lblResult
             // 
@@ -829,6 +831,7 @@
             this.lblResult.TabIndex = 21;
             this.lblResult.Text = "Test";
             this.lblResult.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            */
             // 
             // pictureBoxAlbum
             // 
