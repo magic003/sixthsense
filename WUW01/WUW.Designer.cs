@@ -133,6 +133,7 @@
             this.pictureBoxDisplay.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBoxDisplay_MouseMove);
             this.pictureBoxDisplay.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBoxDisplay_MouseDown);
             this.pictureBoxDisplay.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBoxDisplay_MouseUp);
+            /*
             // 
             // tabSettings
             // 
@@ -150,6 +151,7 @@
             this.tabSettings.SelectedIndex = 0;
             this.tabSettings.Size = new System.Drawing.Size(640, 217);
             this.tabSettings.TabIndex = 2;
+            */
             this.tabSettings.SelectedIndexChanged += new System.EventHandler(this.tabSettings_SelectedIndexChanged);
             // 
             // tabPageCamera
