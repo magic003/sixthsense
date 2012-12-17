@@ -693,6 +693,7 @@
             this.labelDemoInstructions.Size = new System.Drawing.Size(284, 134);
             this.labelDemoInstructions.TabIndex = 29;
             this.labelDemoInstructions.Text = "";
+            /*
             // 
             // btnExit
             // 
@@ -709,7 +710,9 @@
             this.btnExit.TabIndex = 1;
             this.btnExit.Text = "EXIT";
             this.btnExit.UseVisualStyleBackColor = false;
+            */
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            /*
             // 
             // btnShowHide
             // 
@@ -724,6 +727,7 @@
             this.btnShowHide.Size = new System.Drawing.Size(33, 33);
             this.btnShowHide.TabIndex = 0;
             this.btnShowHide.UseVisualStyleBackColor = false;
+            */
             this.btnShowHide.Click += new System.EventHandler(this.btnShowHide_Click);
             this.btnShowHide.MouseHover += new System.EventHandler(this.btnShowHide_Hover);
             // 
