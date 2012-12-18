@@ -153,6 +153,7 @@
             this.tabSettings.TabIndex = 2;
             */
             this.tabSettings.SelectedIndexChanged += new System.EventHandler(this.tabSettings_SelectedIndexChanged);
+            /*
             // 
             // tabPageCamera
             // 
@@ -170,6 +171,7 @@
             this.tabPageCamera.TabIndex = 0;
             this.tabPageCamera.Text = "CAMERA";
             this.tabPageCamera.UseVisualStyleBackColor = true;
+            
             // 
             // lblRecord
             // 
@@ -183,6 +185,8 @@
             this.lblRecord.Text = "[Recording]";
             this.lblRecord.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblRecord.Visible = false;
+            */
+            /*
             // 
             // btnClear
             // 
@@ -192,7 +196,9 @@
             this.btnClear.TabIndex = 25;
             this.btnClear.Text = "CLEAR";
             this.btnClear.UseVisualStyleBackColor = true;
+            */
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            /*
             // 
             // btnView
             // 
@@ -202,7 +208,9 @@
             this.btnView.TabIndex = 24;
             this.btnView.Text = "VIEW";
             this.btnView.UseVisualStyleBackColor = true;
+            */
             this.btnView.Click += new System.EventHandler(this.btnView_Click);
+            /*
             // 
             // btnLoad
             // 
@@ -212,7 +220,9 @@
             this.btnLoad.TabIndex = 23;
             this.btnLoad.Text = "LOAD";
             this.btnLoad.UseVisualStyleBackColor = true;
+            */
             this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
+            /*
             // 
             // btnRecord
             // 
@@ -222,6 +232,7 @@
             this.btnRecord.TabIndex = 22;
             this.btnRecord.Text = "RECORD";
             this.btnRecord.UseVisualStyleBackColor = true;
+            */
             this.btnRecord.Click += new System.EventHandler(this.btnRecord_Click);
             // 
             // groupBoxCameraInfo
