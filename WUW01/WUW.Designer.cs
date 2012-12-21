@@ -234,6 +234,7 @@
             this.btnRecord.UseVisualStyleBackColor = true;
             */
             this.btnRecord.Click += new System.EventHandler(this.btnRecord_Click);
+            /*
             // 
             // groupBoxCameraInfo
             // 
@@ -270,6 +271,7 @@
             this.labelCameraFPSValue.Size = new System.Drawing.Size(36, 17);
             this.labelCameraFPSValue.TabIndex = 20;
             this.labelCameraFPSValue.Text = "0.00";
+            */
             // 
             // numericUpDownCameraFPSLimit
             // 
@@ -314,6 +316,7 @@
             this.buttonCameraProperties.Text = "Adjust Camera Properties";
             this.buttonCameraProperties.UseVisualStyleBackColor = true;
             this.buttonCameraProperties.Click += new System.EventHandler(this.buttonCameraProperties_Click);
+            /*
             // 
             // comboBoxCameras
             // 
@@ -324,6 +327,7 @@
             this.comboBoxCameras.Size = new System.Drawing.Size(267, 24);
             this.comboBoxCameras.TabIndex = 15;
             this.comboBoxCameras.Text = "Select A Camera";
+            */
             this.comboBoxCameras.SelectedIndexChanged += new System.EventHandler(this.comboBoxCameras_SelectedIndexChanged);
             this.comboBoxCameras.DropDown += new System.EventHandler(this.comboBoxCameras_DropDown);
             // 
