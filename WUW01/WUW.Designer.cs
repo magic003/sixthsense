@@ -333,6 +333,7 @@
             */
             this.comboBoxCameras.SelectedIndexChanged += new System.EventHandler(this.comboBoxCameras_SelectedIndexChanged);
             this.comboBoxCameras.DropDown += new System.EventHandler(this.comboBoxCameras_DropDown);
+            /*
             // 
             // tabPageTokens
             // 
@@ -359,7 +360,9 @@
             this.buttonLoadMarkers.TabIndex = 30;
             this.buttonLoadMarkers.Text = "Load Markers";
             this.buttonLoadMarkers.UseVisualStyleBackColor = true;
+            */
             this.buttonLoadMarkers.Click += new System.EventHandler(this.buttonLoadMarkers_Click);
+            /*
             // 
             // buttonSaveMarkers
             // 
@@ -367,9 +370,11 @@
             this.buttonSaveMarkers.Name = "buttonSaveMarkers";
             this.buttonSaveMarkers.Size = new System.Drawing.Size(108, 26);
             this.buttonSaveMarkers.TabIndex = 29;
-            this.buttonSaveMarkers.Text = "Save Markers";
+            this.buttonSaveMarkers.Text = "Save Markers";uuuu
             this.buttonSaveMarkers.UseVisualStyleBackColor = true;
+            */
             this.buttonSaveMarkers.Click += new System.EventHandler(this.buttonSaveMarkers_Click);
+            /*
             // 
             // lblMarkerCount
             // 
@@ -388,6 +393,7 @@
             this.lblTotalMarker.Size = new System.Drawing.Size(99, 17);
             this.lblTotalMarker.TabIndex = 27;
             this.lblTotalMarker.Text = "Total markers:";
+            
             // 
             // groupBoxMarkerControl
             // 
@@ -417,7 +423,9 @@
             this.numericUpDownMarkerThresh.Name = "numericUpDownMarkerThresh";
             this.numericUpDownMarkerThresh.Size = new System.Drawing.Size(47, 23);
             this.numericUpDownMarkerThresh.TabIndex = 5;
+            */
             this.numericUpDownMarkerThresh.ValueChanged += new System.EventHandler(this.numericUpDownMarkerThresh_ValueChanged);
+            /*
             // 
             // labelMarkerThresh
             // 
@@ -439,7 +447,9 @@
             this.checkBoxMarkerSmoothing.TabIndex = 3;
             this.checkBoxMarkerSmoothing.Text = "Smooth Marker Data";
             this.checkBoxMarkerSmoothing.UseVisualStyleBackColor = true;
+            */
             this.checkBoxMarkerSmoothing.CheckedChanged += new System.EventHandler(this.checkBoxMarkerSmoothing_CheckedChanged);
+            /*
             // 
             // checkBoxMarkerHighlight
             // 
@@ -452,7 +462,9 @@
             this.checkBoxMarkerHighlight.TabIndex = 2;
             this.checkBoxMarkerHighlight.Text = "Highlight Marker";
             this.checkBoxMarkerHighlight.UseVisualStyleBackColor = true;
+            */
             this.checkBoxMarkerHighlight.CheckedChanged += new System.EventHandler(this.checkBoxMarkerHighlight_CheckedChanged);
+            /*
             // 
             // labelMarkerData
             // 
@@ -472,7 +484,9 @@
             this.buttonMarkerRemove.TabIndex = 0;
             this.buttonMarkerRemove.Text = "Remove This Marker";
             this.buttonMarkerRemove.UseVisualStyleBackColor = true;
+            */
             this.buttonMarkerRemove.Click += new System.EventHandler(this.buttonMarkerRemove_Click);
+            /*
             // 
             // comboBoxMarkers
             // 
@@ -484,6 +498,7 @@
             this.comboBoxMarkers.Size = new System.Drawing.Size(146, 24);
             this.comboBoxMarkers.TabIndex = 24;
             this.comboBoxMarkers.Text = "Edit Existing Marker";
+            */
             this.comboBoxMarkers.SelectedIndexChanged += new System.EventHandler(this.comboBoxMarkers_SelectedIndexChanged);
             this.comboBoxMarkers.DropDown += new System.EventHandler(this.comboBoxMarkers_DropDown);
             // 
