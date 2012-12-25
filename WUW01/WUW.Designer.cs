@@ -271,7 +271,7 @@
             this.labelCameraFPSValue.Size = new System.Drawing.Size(36, 17);
             this.labelCameraFPSValue.TabIndex = 20;
             this.labelCameraFPSValue.Text = "0.00";
-            */
+            
             // 
             // numericUpDownCameraFPSLimit
             // 
@@ -296,7 +296,9 @@
             0,
             0});
             this.numericUpDownCameraFPSLimit.Visible = false;
+            */
             this.numericUpDownCameraFPSLimit.ValueChanged += new System.EventHandler(this.numericUpDownCameraFPSLimit_ValueChanged);
+            /*
             // 
             // labelCameraFPS
             // 
@@ -315,6 +317,7 @@
             this.buttonCameraProperties.TabIndex = 17;
             this.buttonCameraProperties.Text = "Adjust Camera Properties";
             this.buttonCameraProperties.UseVisualStyleBackColor = true;
+            */
             this.buttonCameraProperties.Click += new System.EventHandler(this.buttonCameraProperties_Click);
             /*
             // 
