@@ -514,6 +514,7 @@
             this.buttonMarkerAdd.UseVisualStyleBackColor = true;
             */
             this.buttonMarkerAdd.Click += new System.EventHandler(this.buttonMarkerAdd_Click);
+            /*
             // 
             // tabPageApps
             // 
@@ -562,7 +563,9 @@
             this.buttonEffectsDemo.TabIndex = 45;
             this.buttonEffectsDemo.Text = "Effects";
             this.buttonEffectsDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonEffectsDemo.Click += new System.EventHandler(this.buttonEffectsDemo_Click);
+            /*
             // 
             // buttonTestDemo
             // 
@@ -573,7 +576,9 @@
             this.buttonTestDemo.TabIndex = 44;
             this.buttonTestDemo.Text = "Test";
             this.buttonTestDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonTestDemo.Click += new System.EventHandler(this.buttonTestDemo_Click);
+            /*
             // 
             // buttonGlobeDemo
             // 
@@ -584,7 +589,9 @@
             this.buttonGlobeDemo.TabIndex = 43;
             this.buttonGlobeDemo.Text = "Globe";
             this.buttonGlobeDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonGlobeDemo.Click += new System.EventHandler(this.buttonGlobeDemo_Click);
+            /*
             // 
             // buttonStockDemo
             // 
@@ -595,7 +602,9 @@
             this.buttonStockDemo.TabIndex = 42;
             this.buttonStockDemo.Text = "Stock";
             this.buttonStockDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonStockDemo.Click += new System.EventHandler(this.buttonStockDemo_Click);
+            /*
             // 
             // buttonGalleryDemo
             // 
@@ -606,7 +615,9 @@
             this.buttonGalleryDemo.TabIndex = 41;
             this.buttonGalleryDemo.Text = "Gallery";
             this.buttonGalleryDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonGalleryDemo.Click += new System.EventHandler(this.buttonGalleryDemo_Click);
+            /*
             // 
             // buttonBookDemo
             // 
@@ -617,7 +628,9 @@
             this.buttonBookDemo.TabIndex = 40;
             this.buttonBookDemo.Text = "Book";
             this.buttonBookDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonBookDemo.Click += new System.EventHandler(this.buttonBookDemo_Click);
+            /*
             // 
             // buttonMailDemo
             // 
@@ -628,7 +641,9 @@
             this.buttonMailDemo.TabIndex = 39;
             this.buttonMailDemo.Text = "Mail";
             this.buttonMailDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonMailDemo.Click += new System.EventHandler(this.buttonMailDemo_Click);
+            /*
             // 
             // buttonNewsPaperDemo
             // 
@@ -639,7 +654,9 @@
             this.buttonNewsPaperDemo.TabIndex = 38;
             this.buttonNewsPaperDemo.Text = "NewsPaper";
             this.buttonNewsPaperDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonNewsPaperDemo.Click += new System.EventHandler(this.buttonNewsPaperDemo_Click);
+            /*
             // 
             // buttonWeatherDemo
             // 
@@ -650,7 +667,9 @@
             this.buttonWeatherDemo.TabIndex = 37;
             this.buttonWeatherDemo.Text = "Weather";
             this.buttonWeatherDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonWeatherDemo.Click += new System.EventHandler(this.buttonWeatherDemo_Click);
+            /*
             // 
             // buttonMenuDemo
             // 
@@ -661,7 +680,9 @@
             this.buttonMenuDemo.TabIndex = 36;
             this.buttonMenuDemo.Text = "Menu";
             this.buttonMenuDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonMenuDemo.Click += new System.EventHandler(this.buttonMenuDemo_Click);
+            /*
             // 
             // buttonClockDemo
             // 
@@ -672,7 +693,9 @@
             this.buttonClockDemo.TabIndex = 35;
             this.buttonClockDemo.Text = "Clock";
             this.buttonClockDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonClockDemo.Click += new System.EventHandler(this.buttonClockDemo_Click);
+            /*
             // 
             // buttonPhotoDemo
             // 
@@ -683,7 +706,9 @@
             this.buttonPhotoDemo.TabIndex = 34;
             this.buttonPhotoDemo.Text = "Photo";
             this.buttonPhotoDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonPhotoDemo.Click += new System.EventHandler(this.buttonPhotoDemo_Click);
+            /*
             // 
             // buttonGestureDemo
             // 
@@ -694,7 +719,9 @@
             this.buttonGestureDemo.TabIndex = 33;
             this.buttonGestureDemo.Text = "Gesture";
             this.buttonGestureDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonGestureDemo.Click += new System.EventHandler(this.buttonGestureDemo_Click);
+            /*
             // 
             // buttonMapDemo
             // 
@@ -705,7 +732,9 @@
             this.buttonMapDemo.TabIndex = 32;
             this.buttonMapDemo.Text = "Map";
             this.buttonMapDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonMapDemo.Click += new System.EventHandler(this.buttonMapDemo_Click);
+            /*
             // 
             // buttonDrawDemo
             // 
@@ -716,7 +745,9 @@
             this.buttonDrawDemo.TabIndex = 31;
             this.buttonDrawDemo.Text = "Draw";
             this.buttonDrawDemo.UseVisualStyleBackColor = true;
+            */
             this.buttonDrawDemo.Click += new System.EventHandler(this.buttonDrawDemo_Click);
+            /*
             // 
             // labelDemoInstructions
             // 
@@ -730,6 +761,7 @@
             this.labelDemoInstructions.Size = new System.Drawing.Size(284, 134);
             this.labelDemoInstructions.TabIndex = 29;
             this.labelDemoInstructions.Text = "";
+            */
             /*
             // 
             // btnExit
