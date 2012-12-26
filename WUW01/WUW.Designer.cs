@@ -501,6 +501,7 @@
             */
             this.comboBoxMarkers.SelectedIndexChanged += new System.EventHandler(this.comboBoxMarkers_SelectedIndexChanged);
             this.comboBoxMarkers.DropDown += new System.EventHandler(this.comboBoxMarkers_DropDown);
+            /*
             // 
             // buttonMarkerAdd
             // 
@@ -511,6 +512,7 @@
             this.buttonMarkerAdd.TabIndex = 23;
             this.buttonMarkerAdd.Text = "New Markers";
             this.buttonMarkerAdd.UseVisualStyleBackColor = true;
+            */
             this.buttonMarkerAdd.Click += new System.EventHandler(this.buttonMarkerAdd_Click);
             // 
             // tabPageApps
